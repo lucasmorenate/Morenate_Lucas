@@ -5,7 +5,7 @@
 
 ### Silicon Misiones - [https://siliconmisiones.gob.ar/](https://siliconmisiones.gob.ar/)
 
-**Autor:** nombre y apellido del estudiante
+**Autor:** Morenate Lucas
 
 **Descripción:** Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos del Módulo 1.
 
